@@ -2,6 +2,9 @@
 NAME : DEVA DHARSHINI I
 
 REGISTER NO : 212223240026
+
+DEPARTMENT : AIML
+
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
